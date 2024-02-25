@@ -1,0 +1,46 @@
+//imtahan2 section1 start
+.imtahan2-section1 .container{
+    width: 100%;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 1);
+    background-size: cover;
+    background-position: center;
+}
+.title-texts-button h1{
+    font-family: "Montserrat", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    color: rgba(255, 255, 255, 1);
+}
+.title-texts-button li{
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 40px;
+    color: rgba(255, 255, 255, 1);
+}
+.buttons .text{
+    width: 179px;
+    height: 44px;
+    padding: 10px, 20px, 10px, 20px;
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 1);
+    gap: 10px;
+    z-index: 10;
+}
+.buttons .text p{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    padding: 11px 0px 11px 0px;
+}
+.img img{
+    width: 400px;
+    height: 400px;
+}
+
+//imtahan2 section1 end

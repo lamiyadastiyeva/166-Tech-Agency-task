@@ -1,0 +1,150 @@
+//imtahan1 section3 start
+.container{
+    width: 100%;
+}
+.left-side{
+    width: 354px;
+    height: 824px;
+    background-color: rgba(250, 250, 250, 1);
+    border-radius: 12px;
+}
+.title{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+.categories p{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.category-text>p:first-child{
+    background-color: rgba(0, 0, 0, 1);
+    color: rgba(255, 255, 255, 1);
+    font-weight: 500;
+}
+.category-text p, .labels-text p{
+    width: 298px;
+    height: 44px;
+    border-radius: 12px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 1);
+    background-color: rgba(245, 245, 245, 1);
+    padding: 11px 0px 0px 15px;
+}
+.labels-text>p:last-child{
+    background-color: rgba(0, 0, 0, 1);
+    color: rgba(255, 255, 255, 1);
+    font-weight: 500;
+}
+.general-box{
+    width: 373px;
+    height: 394px;
+    border-radius: 12px;
+    background-color: rgba(250, 250, 250, 1);
+}
+.icon-text i{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 1)
+    rgba(255, 255, 255, 1);
+}
+.icons i.light{
+    color: rgba(197, 197, 197, 1);
+}
+.icon-text p{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: rgba(0, 0, 0, 0.8);
+}
+.icons-text li.icons{
+    list-style-type: none;
+}
+.icons-text li.text{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: rgba(0, 0, 0, 0.8);
+}
+.texts h5{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+.texts ul{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: rgba(0, 0, 0, 0.8);
+}
+.button1{
+    width: 111px;
+    height: 30px;
+    border-radius: 12px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    background-color: rgba(217, 217, 217, 1);
+}
+.button1 p, .button2 p{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(0, 0, 0, 1);
+}
+.button2{
+    width: 97px;
+    height: 30px;
+    border-radius: 12px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    background-color: rgba(217, 217, 217, 1);
+}
+.button{
+    width: 317px;
+    height: 44px;
+    padding: 10px, 20px, 10px, 20px;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 1);
+    gap: 10px;
+}
+.button p{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+.general-button{
+    width: 116px;
+    height: 44px;
+    padding: 10px, 20px, 10px, 20px;
+    border-radius: 12px;
+    border: 1px solid rgba(217, 217, 217, 1);
+    gap: 10px;
+    text-align: center;
+}
+.button-text p{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+//imtahan1 section3 end
